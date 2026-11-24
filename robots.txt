@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /og/
+
+Sitemap: https://azzurroxxx777-bit.github.io/empire-v/sitemap.xml
